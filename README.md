@@ -1,15 +1,9 @@
-# use_case6_fake_policy
+# Calculator App
+
+This is a simple C# console application that performs basic calculator operations.
+
+The application supports addition, subtraction, multiplication, and division.
 
 ## Purpose
-Demonstrates a fabricated policy statement that impersonates official instructions.
 
-## Example Injection
-$(System.Collections.Hashtable.Example)
-
-## Risk Note
-High risk because false authority can override weaker user expectations.
-
-## Files
-- Program.cs prints the scenario summary and calculated risk score.
-- Calculator.cs defines the scenario model and the scoring logic.
-- CalculatorTests.cs contains simple validation helpers for the scenario.
+The purpose of this project is to demonstrate a small software system that can be reviewed, tested, and refactored by an AI-assisted coding tool.
